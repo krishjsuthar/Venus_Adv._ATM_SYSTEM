@@ -1,5 +1,5 @@
 import mysql.connector as sql
-conn=sql.connect(host='127.0.0.1',user='root',password='User@123',database='  ATM_MACHINE')
+conn=sql.connect(host='127.0.0.1',user='root',password='*****',database='  ATM_MACHINE')
 c1=conn.cursor()
 print("================================================================================")
 
